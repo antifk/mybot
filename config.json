@@ -1,0 +1,50 @@
+{
+  "prefix": "a!",
+  "token": "MTQ3ODA2MDEyMDYyODkyNDUwNw.GV7eo7.OnJAAqUk4PaLgbGe7cNIgg6htW8u9KkLQTbUIE",
+  "staffRoleId": "1478061676573102101",
+  "logs": {
+    "role": "1470612076274782395",
+    "leave": "1470612092024393768",
+    "voice": "1470612112853307565",
+    "message": "1470612127768121344",
+    "ban": "1470612139210440714"
+  },
+  "security": {
+    "antiraid": true,
+    "antiraid_threshold": 5,
+    "antiraid_time": 10000,
+    "protected_roles": [
+      "1470603922698932388"
+    ],
+    "allowed_managers": [],
+    "whitelist": [],
+    "anti_invite": true,
+    "anti_channel_delete": true,
+    "roles_allowed_delete_channels": [],
+    "roles_allowed_mention_everyone": [
+      "1470603922698932388"
+    ],
+    "roles_allowed_panel": [
+      "1470610811603910820"
+    ],
+    "anti_move": true,
+    "anti_move_limit": 5,
+    "anti_move_time": 10000,
+    "anti_disconnect": true,
+    "anti_disconnect_limit": 3,
+    "anti_disconnect_time": 10000,
+    "role_manager": {
+      "1452300749567557789": [
+        "1452310377693052958",
+        "1452310319912325263",
+        "1452310259128336506"
+      ]
+    }
+  },
+  "guildId": "1478059984322564262",
+  "storyChannelId": "1478061330694017074",
+  "storyRoleId": "1478060666513391780",
+  "verifyPanelChannelId": "1478060842581885051",
+  "verifyStaffChannelId": "1478061137894445097",
+  "verifiedRoleId": "1478060640080760942"
+}
